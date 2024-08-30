@@ -1,0 +1,16 @@
+
+Ligo dois  interruptores e vou numa sala , se a luz daquela sala estiver acesa significa que tenho um dos dois será daquela sala
+Se a luz daquela sala não estiver acesa siginifica que o  interruptor que ficou desligado pertence aquela sala
+
+Caso a luz estiver apaga e eu já souber qual  interruptor pertence aquele sala , agora tenho outros dois  interruptores para resolver
+Nesse caso eu ligo apenas um  interruptor e escolho outra sala para ir
+caso a luz da sala estivez acesa significa que o segundo  interruptor que eu liguei pertence aquela sala
+se estiver apagada significa que pertence a outra sala
+assim eu consigo saber qual  interruptor pertence a qual sala
+
+exemplo:
+    na primeira ida eu liguei o interruptor 2 e 3
+    foi na sala 3 e a luz estava apagada logo o interruptor 1 pertence a sala 3
+    volto e ligo apenas o interruptor 3 e vou na sala 2
+    se estiver acesa significa que o interruptor 3 pertence a sala 2 e o interruptor 2 pertence a sala 1
+    se não estiver acesa siginifica que o interruptor 3 pertence a sala 1 e o  interruptor 2 pertence a sala 2
